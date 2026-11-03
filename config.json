@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "updatedAt": "2026-11-03",
+  "ios": {
+    "latestVersion": "1.0.0",
+    "minimumVersion": "1.0.0",
+    "updateMessage": null
+  },
+  "android": {
+    "latestVersion": "1.0.0",
+    "minimumVersion": "1.0.0",
+    "updateMessage": null
+  },
+  "machines": {
+    "LineaMicra": {
+      "verifiedFirmware": { "gateway": ["v7.4.2"], "machine": ["v1.17"] },
+      "blockedFirmware": [],
+      "note": null
+    },
+    "LineaMiniR": {
+      "verifiedFirmware": { "gateway": [], "machine": [] },
+      "blockedFirmware": [],
+      "note": "Supported but not yet verified on hardware."
+    }
+  }
+}
