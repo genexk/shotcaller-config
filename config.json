@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-03",
+  "updatedAt": "2026-11-06",
   "ios": {
     "latestVersion": "1.0.0",
     "minimumVersion": "1.0.0",
@@ -13,7 +13,7 @@
   },
   "machines": {
     "LineaMicra": {
-      "verifiedFirmware": { "gateway": ["v7.4.2"], "machine": ["v1.17"] },
+      "verifiedFirmware": { "gateway": ["v7.4.2", "v7.5.3"], "machine": ["v1.17"] },
       "blockedFirmware": [],
       "note": null
     },
