@@ -11,6 +11,12 @@
     "minimumVersion": "1.0.0",
     "updateMessage": null
   },
+  "features": {
+    "stoppingEnabled": true,
+    "stoppingMessage": null,
+    "cloudEnabled": true,
+    "cloudMessage": null
+  },
   "machines": {
     "LineaMicra": {
       "verifiedFirmware": { "gateway": ["v7.4.2", "v7.5.3"], "machine": ["v1.17"] },
